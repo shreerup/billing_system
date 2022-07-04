@@ -1,0 +1,9 @@
+ 1 Umbrella 380 10
+ 2 Raincoat 1199 8
+ 3 Bucket 100 2
+ 4 Pillow 50 4
+ 5 Bedsheet 250 8
+ 6 Notebook 40 0
+ 7 Bread 25 0
+ 8 Charger 115 5
+ 9 Dettol 400 3
